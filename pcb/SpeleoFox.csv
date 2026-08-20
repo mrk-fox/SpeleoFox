@@ -1,0 +1,25 @@
+Reference;Qty;Value;DNP;Exclude from BOM;Exclude from Board;Footprint;Datasheet
+BT1,BT2;2;Battery_Cell;;;;;
+C1,C2,C5,C6;4;10µF;;;;1206;https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251
+C3;1;100µF;;;;1206;https://www.digikey.de/de/products/detail/murata-electronics/GRM31CR61A107MEA8L/16033775
+C4;1;22µF;;;;0805;https://www.digikey.de/de/products/detail/murata-electronics/GRM21BZ71A226ME15L/13904953
+C7;1;1µF;;;;0603;https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10B105KA8NNNC/3886842
+D1,D3,D5;3;SS34;;;;;https://www.digikey.de/de/products/detail/onsemi/SS34/1052384
+D4;1;LED_Dual_AAKK;;;;3x2.54;https://www.digikey.de/de/products/detail/kingbright/WP59SURKSGC/25807463
+F1;1;1A;;;;0603;https://www.digikey.de/de/products/detail/vishay/MFU0603FF01000P500/1202604
+J1;1;UPDI;;;;3x2.54;
+J2;1;Conn_01x02_Socket;;;;2x2.54;
+J3;1;Conn_01x02_Pin;;;;2x2.54;
+L2,L3;2;47µH;;;;0603;https://www.digikey.de/de/products/detail/taiyo-yuden/CBMF1608T470K/1007996
+LED1;1;Cree_XP-L_HI_SPOT_focused-lens;;;;Cree XP-L;https://www.digikey.de/de/products/detail/cree-led/XPLAWT-H0-0000-0000V2051/5303741
+LED2;1;Cree_XM-L2_FLOOD;;;;Cree XP-G;
+R3,R4;2;0.15;;;;0603;https://www.digikey.de/de/products/detail/vishay-dale/RCWE0603R150FKEA/2276451
+R5,R12,R14;3;470;;;;0603;https://www.digikey.de/de/products/detail/vishay-dale/CRCW0603470RFKEA/1174630
+R6,R7,R8,R9;4;10k;;;;0603;https://www.digikey.de/de/products/detail/vishay-dale/CRCW060310K0FKEA/1174782
+R10,R11;2;100k;;;;0603;https://www.digikey.de/de/products/detail/vishay-dale/CRCW0603100KFKEA/1174896
+RT1;1;10k_NTC;;;;2x2.54;https://www.digikey.de/de/products/detail/eaton-electronics-division/NRBE104F3435B2F/15927749
+SW1;1;PWR_ON_OFF;;;;2x2.54;
+SW2;1;MODE_ON-ON-ON;;;;4x2.25;
+U1;1;ATtiny1616-S;;;;20-SOIC;https://www.digikey.de/de/products/detail/microchip-technology/ATTINY1616-SN/10231345
+U3,U5;2;AL8860WT;;;;TSOT-25;https://www.digikey.de/de/products/detail/diodes-incorporated/AL8860WT-7/6226978
+U4;1;AMS1117-5.0;;;;SOT-223;https://www.digikey.de/de/products/detail/shenzhen-slkormicro-semicon-co-ltd/AMS1117-5-0-SOT-223/22204997
