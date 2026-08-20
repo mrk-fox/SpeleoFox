@@ -34,6 +34,20 @@ In the end, the final product featured a full, two-component assembly with a bri
 
 Total time spendings: 6 hours.
 
+![general assembly](https://raw.githubusercontent.com/mrk-fox/SpeleoFox/refs/heads/main/img/general%20assembly.png)
+
+Final assembly: Front and back parts (Emittor and Battery holder) on a stiff helmet ring
 
 
-Final journal entry: I spent another 2 hours documenting my work thoroughly.
+
+![front_case_disassembled](https://raw.githubusercontent.com/mrk-fox/SpeleoFox/refs/heads/main/img/front_case_disassembled.png)
+
+Emitter disassembled. From left to right: helmet holder, case, mode select switch, emitter PCB, front glass, screws.
+
+![front_case_disassembled](https://raw.githubusercontent.com/mrk-fox/SpeleoFox/refs/heads/main/img/PCB.png)Final 
+
+PCB - Left side: Emittor PCB with Cree XM LED footprint in the middle, Battery connectors on the right side. Panelized.
+
+
+
+journal entry: I spent another 2 hours documenting my work thoroughly.
